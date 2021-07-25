@@ -8,7 +8,7 @@ Web Connector Simulator : https://tableau.github.io/webdataconnector/Simulator/
 
 The above source data is used from my Pega API list datapage "D_SalesDetailsList" you can customise as per your need.
 
-Finished WDC: https://covid-wdc.vercel.app/
+My Finished Pega WDC ready to use: https://covid-wdc.vercel.app/ (Note : paste this in the below search bar when importing in tableau this is direct WDC URL)
 
 TODO
 
