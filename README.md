@@ -7,6 +7,7 @@ Corona Dashboard Dutch Government: https://tableau.github.io/webdataconnector/#
 Source data eg : http://localhost:8090/prweb/api/v1/data/D_SalesDetailsList (The source data is now without any authentication,To achieve no Auth in pega API go to Service package -> api and unselect require authentication, if in case you need to use basic auth in your Pega API datasource then ignore these steps)
 
 To use the default Basic Auth for pega API's kindly add the the below Javascript code :
+
 myConnector.init = function(initCallback) {
       tableau.authType = tableau.authTypeEnum.basic;
       initCallback();
