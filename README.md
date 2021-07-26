@@ -1,4 +1,4 @@
-# Pega Sales Cases Web Data Connector
+# Pega Sales Web Data Connector
 
 Link Web Data Connector Docs: https://tableau.github.io/webdataconnector/#
 
